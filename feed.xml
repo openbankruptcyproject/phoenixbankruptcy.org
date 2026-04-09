@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>phoenixbankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://phoenixbankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://phoenixbankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://phoenixbankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>Phoenix Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://phoenixbankruptcy.org/" rel="alternate"/>
+    <id>https://phoenixbankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free Phoenix bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The 341 Meeting of Creditors in Phoenix</title>
+    <link href="https://phoenixbankruptcy.org/341-meeting.html" rel="alternate"/>
+    <id>https://phoenixbankruptcy.org/341-meeting.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What to expect at the 341 meeting in Phoenix bankruptcy. Questions asked, how to prepare, and what happens at the D. Ariz..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The Automatic Stay in Phoenix Bankruptcy</title>
+    <link href="https://phoenixbankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://phoenixbankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn how the automatic stay protects Phoenix residents when filing bankruptcy. What stops immediately, what does not, stay violations, and.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Accounts and Bankruptcy in Phoenix</title>
+    <link href="https://phoenixbankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://phoenixbankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How bankruptcy affects your bank account in Phoenix, Arizona. Freezes, levies, exemptions, and how to protect your money when filing in the District of.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13? -- Phoenix</title>
+    <link href="https://phoenixbankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://phoenixbankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You need trustee approval and a court motion to purchase a vehicle during Chapter 13. [Phoenix]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in Phoenix</title>
+    <link href="https://phoenixbankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://phoenixbankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How to buy a house after bankruptcy in Phoenix, Arizona. FHA, VA, and conventional loan waiting periods, credit rebuilding, and Arizona-specific.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy -- Phoenix</title>
+    <link href="https://phoenixbankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://phoenixbankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. [Phoenix]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Eligibility in Phoenix</title>
+    <link href="https://phoenixbankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://phoenixbankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility requirements in Phoenix, Arizona. Income requirements, debt limits, and how to qualify in the District of Arizona.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in Phoenix</title>
+    <link href="https://phoenixbankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://phoenixbankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 plan payments work in Phoenix, Arizona. Payment amounts, what gets paid, how long, and what happens if you miss a payment in the.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in Phoenix -- Payment Plans, Dismissal Rates, Timeline</title>
+    <link href="https://phoenixbankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://phoenixbankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in Phoenix. Payment plan basics, D. Ariz. dismissal rate (53.5%), timeline, 3-5 year commitment, and what to expect.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
