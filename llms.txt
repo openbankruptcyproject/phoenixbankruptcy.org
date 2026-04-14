@@ -1,57 +1,90 @@
-# Phoenix Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+# Phoenix Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
 > Free Phoenix bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
 ## About
 phoenixbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Phoenix Bankruptcy -- Chapter 7 & 13 Filing Guide: https://phoenixbankruptcy.org/
-- Chapter 7 Bankruptcy in Phoenix -- Eligibility, Exemptions, Timeline: https://phoenixbankruptcy.org/chapter-7.html
-- Chapter 13 Bankruptcy in Phoenix -- Payment Plans, Dismissal Rates, Timeline: https://phoenixbankruptcy.org/chapter-13.html
-- Arizona Bankruptcy Exemptions -- What You Can Keep -- Phoenix: https://phoenixbankruptcy.org/exemptions.html
-- How Much Does Bankruptcy Cost in Phoenix? -- Filing Fees, Attorney Fees: https://phoenixbankruptcy.org/cost.html
-- What to Expect When Filing Bankruptcy -- Timeline, 341 Meeting, Discharge -- Phoenix: https://phoenixbankruptcy.org/what-to-expect.html
-- Phoenix Bankruptcy FAQ -- 18 Common Questions Answered: https://phoenixbankruptcy.org/faq.html
-- Phoenix Bankruptcy Statistics -- 52,776 Cases Analyzed: https://phoenixbankruptcy.org/statistics.html
-- Phoenix Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://phoenixbankruptcy.org/resources.html
-- Bankruptcy by County -- Phoenix Metro Area: https://phoenixbankruptcy.org/counties.html
-- Bankruptcy in Maricopa County -- Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/counties/maricopa-county.html
-- Bankruptcy in Pinal County -- Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/counties/pinal-county.html
-- Bankruptcy in Yavapai County -- Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/counties/yavapai-county.html
-- Find Your Bankruptcy District -- Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/district-lookup.html
-- Free Legal Help for Bankruptcy in Phoenix: https://phoenixbankruptcy.org/legal-aid.html
-- Phoenix Means Test: Do You Qualify for Chapter 7?: https://phoenixbankruptcy.org/means-test.html
+- The 341 Meeting of Creditors in Phoenix: https://phoenixbankruptcy.org/341-meeting.html
 - The Automatic Stay in Phoenix Bankruptcy: https://phoenixbankruptcy.org/automatic-stay.html
+- Bank Accounts and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/bank-account.html
+- Can I Buy a Car While in Chapter 13? - Phoenix: https://phoenixbankruptcy.org/buy-car-chapter-13.html
+- Buying a House After Bankruptcy in Phoenix: https://phoenixbankruptcy.org/buying-a-house.html
+- Car Leases and Bankruptcy - Phoenix: https://phoenixbankruptcy.org/car-lease.html
+- Chapter 13 Eligibility in Phoenix: https://phoenixbankruptcy.org/chapter-13-eligibility.html
+- Chapter 13 Payments in Phoenix: https://phoenixbankruptcy.org/chapter-13-payments.html
+- Chapter 13 Bankruptcy in Phoenix - Payment Plans, Dismissal Rates, Timeline: https://phoenixbankruptcy.org/chapter-13.html
+- Chapter 7 Eligibility in Phoenix: https://phoenixbankruptcy.org/chapter-7-eligibility.html
+- Chapter 7 Bankruptcy in Phoenix - Eligibility, Exemptions, Timeline: https://phoenixbankruptcy.org/chapter-7.html
+- Bankruptcy Filing Checklist for Phoenix: https://phoenixbankruptcy.org/checklist.html
+- Bankruptcy in Avondale, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/avondale.html
+- Bankruptcy in Buckeye, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/buckeye.html
+- Bankruptcy in Chandler, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/chandler.html
+- Bankruptcy in Flagstaff, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/flagstaff.html
+- Bankruptcy in Gilbert, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/gilbert.html
+- Bankruptcy in Glendale, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/glendale.html
+- Bankruptcy in Goodyear, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/goodyear.html
+- Bankruptcy by City - Phoenix Area Suburbs: https://phoenixbankruptcy.org/cities/
+- Bankruptcy in Mesa, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/mesa.html
+- Bankruptcy in Peoria, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/peoria.html
+- Bankruptcy in Scottsdale, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/scottsdale.html
+- Bankruptcy in Surprise, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/surprise.html
+- Bankruptcy in Tempe, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/tempe.html
+- Converting Between Bankruptcy Chapters in Phoenix: https://phoenixbankruptcy.org/converting-chapters.html
+- How Much Does Bankruptcy Cost in Phoenix? - Filing Fees, Attorney Fees: https://phoenixbankruptcy.org/cost.html
+- Bankruptcy by County - Phoenix Metro Area: https://phoenixbankruptcy.org/counties.html
+- Bankruptcy in Maricopa County - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/counties/maricopa-county.html
+- Bankruptcy in Pinal County - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/counties/pinal-county.html
+- Bankruptcy in Yavapai County - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/counties/yavapai-county.html
+- Phoenix Federal Bankruptcy Court Guide - D. Arizona Filing Information: https://phoenixbankruptcy.org/court-guide.html
 - Rebuilding Credit After Bankruptcy in Phoenix: https://phoenixbankruptcy.org/credit-after-bankruptcy.html
+- Credit Card Debt and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/credit-card-debt.html
+- Using Credit Cards Before Filing Bankruptcy - Phoenix: https://phoenixbankruptcy.org/credit-cards-before-filing.html
+- Types of Debt in Phoenix Bankruptcy: https://phoenixbankruptcy.org/debt-types.html
+- Debtor Education in Phoenix - Arizona Credit Counseling &amp; Financial Management: https://phoenixbankruptcy.org/debtor-education.html
+- Bankruptcy Disqualifications in Phoenix: https://phoenixbankruptcy.org/disqualifications.html
+- Find Your Bankruptcy District - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/district-lookup.html
+- Divorce and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/divorce-and-bankruptcy.html
+- Emergency Bankruptcy Filing in Phoenix: https://phoenixbankruptcy.org/emergency-bankruptcy.html
+- Bankruptcy and Employment: Can You Get Fired? - Phoenix: https://phoenixbankruptcy.org/employment.html
+- Can I Keep My Engagement Ring in Bankruptcy? - Phoenix: https://phoenixbankruptcy.org/engagement-ring.html
+- Can Bankruptcy Stop an Eviction? - Phoenix: https://phoenixbankruptcy.org/eviction.html
+- Arizona Bankruptcy Exemptions - What You Can Keep - Phoenix: https://phoenixbankruptcy.org/exemptions.html
+- Phoenix Bankruptcy FAQ - 18 Common Questions Answered: https://phoenixbankruptcy.org/faq.html
+- How to Find Out if Someone Filed Bankruptcy - Phoenix: https://phoenixbankruptcy.org/find-bankruptcy-filing.html
+- Foreclosure and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/foreclosure.html
+- Bankruptcy Glossary - Phoenix Terms: https://phoenixbankruptcy.org/glossary.html
+- Bankruptcy Income Limits in Phoenix: https://phoenixbankruptcy.org/income-limits.html
+- Phoenix Bankruptcy - Chapter 7 & 13 Filing Guide: https://phoenixbankruptcy.org/
+- Judgments and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/judgments.html
 - Can I Keep My Car in Phoenix Bankruptcy?: https://phoenixbankruptcy.org/keep-your-car.html
 - Can I Keep My House in Phoenix Bankruptcy?: https://phoenixbankruptcy.org/keep-your-house.html
+- Free Legal Help for Bankruptcy in Phoenix: https://phoenixbankruptcy.org/legal-aid.html
+- Phoenix Means Test: Do You Qualify for Chapter 7?: https://phoenixbankruptcy.org/means-test.html
+- Can I File Bankruptcy on Medical Debt Only? - Phoenix: https://phoenixbankruptcy.org/medical-debt-only.html
 - Medical Debt and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/medical-debt.html
-- Wage Garnishment and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/wage-garnishment.html
-- Student Loans and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/student-loans.html
-- Tax Debt and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/tax-debt.html
-- Small Business Bankruptcy in Phoenix: https://phoenixbankruptcy.org/small-business.html
-- Types of Debt in Phoenix Bankruptcy: https://phoenixbankruptcy.org/debt-types.html
-- Foreclosure and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/foreclosure.html
-- Vehicle Repossession and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/repossession.html
-- Bankruptcy Timeline in Phoenix: What to Expect: https://phoenixbankruptcy.org/timeline.html
-- The 341 Meeting of Creditors in Phoenix: https://phoenixbankruptcy.org/341-meeting.html
-- Bankruptcy Filing Checklist for Phoenix: https://phoenixbankruptcy.org/checklist.html
-- Emergency Bankruptcy Filing in Phoenix: https://phoenixbankruptcy.org/emergency-bankruptcy.html
-- Divorce and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/divorce-and-bankruptcy.html
-- Credit Card Debt and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/credit-card-debt.html
-- Converting Between Bankruptcy Chapters in Phoenix: https://phoenixbankruptcy.org/converting-chapters.html
-- Chapter 7 Eligibility in Phoenix: https://phoenixbankruptcy.org/chapter-7-eligibility.html
-- Chapter 13 Eligibility in Phoenix: https://phoenixbankruptcy.org/chapter-13-eligibility.html
-- Buying a House After Bankruptcy in Phoenix: https://phoenixbankruptcy.org/buying-a-house.html
-- Bankruptcy Glossary -- Phoenix Terms: https://phoenixbankruptcy.org/glossary.html
 - Payday Loans and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/payday-loans.html
-- Judgments and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/judgments.html
+- Can I Undo a Reaffirmation Agreement? - Phoenix: https://phoenixbankruptcy.org/reaffirmation-regret.html
+- Renting an Apartment After Bankruptcy - Phoenix: https://phoenixbankruptcy.org/renting-after-bankruptcy.html
+- Can Bankruptcy Remove a Repossession From Your Credit? - Phoenix: https://phoenixbankruptcy.org/repo-credit-report.html
+- Vehicle Repossession and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/repossession.html
+- Phoenix Bankruptcy Resources - Courts, Legal Aid, Credit Counseling: https://phoenixbankruptcy.org/resources.html
+- Can I Keep My 401k and Retirement in Bankruptcy? - Phoenix: https://phoenixbankruptcy.org/retirement-accounts.html
 - Second Mortgages and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/second-mortgage.html
-- Bank Accounts and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/bank-account.html
-- Chapter 13 Payments in Phoenix: https://phoenixbankruptcy.org/chapter-13-payments.html
-- Bankruptcy Income Limits in Phoenix: https://phoenixbankruptcy.org/income-limits.html
-- Bankruptcy Disqualifications in Phoenix: https://phoenixbankruptcy.org/disqualifications.html
-- Phoenix Federal Bankruptcy Court Guide -- D. Arizona Filing Information: https://phoenixbankruptcy.org/court-guide.html
+- Bankruptcy and Security Clearance - Phoenix: https://phoenixbankruptcy.org/security-clearance.html
+- Small Business Bankruptcy in Phoenix: https://phoenixbankruptcy.org/small-business.html
+- Phoenix Bankruptcy Statistics - 52,776 Cases Analyzed: https://phoenixbankruptcy.org/statistics.html
+- What Bills Can I Stop Paying Before Filing? - Phoenix: https://phoenixbankruptcy.org/stop-paying-bills.html
+- Student Loans and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/student-loans.html
+- Surrendering Your Car in Bankruptcy - Phoenix: https://phoenixbankruptcy.org/surrender-car.html
+- Tax Debt and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/tax-debt.html
+- Will the Chapter 13 Trustee Take My Tax Refund? - Phoenix: https://phoenixbankruptcy.org/tax-refund-chapter13.html
+- Bankruptcy Timeline in Phoenix: What to Expect: https://phoenixbankruptcy.org/timeline.html
+- Timeshares and Bankruptcy - Phoenix: https://phoenixbankruptcy.org/timeshare.html
+- Can I Travel During Chapter 13? - Phoenix: https://phoenixbankruptcy.org/travel-chapter-13.html
+- Wage Garnishment and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/wage-garnishment.html
+- What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge - Phoenix: https://phoenixbankruptcy.org/what-to-expect.html
+- Privacy Policy: https://phoenixbankruptcy.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
