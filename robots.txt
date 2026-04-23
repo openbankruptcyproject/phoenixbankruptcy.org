@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://phoenixbankruptcy.org/sitemap.xml
 
-Sitemap: https://phoenixbankruptcy.org/feed.xml
+
+Sitemap: https://phoenixbankruptcy.org/sitemapindex.xml
