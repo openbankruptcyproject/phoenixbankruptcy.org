@@ -778,7 +778,7 @@ To file Chapter 13 bankruptcy in the District of Arizona, you must meet these re
 
 Regular income: You need sufficient regular income to fund a repayment plan. This includes wages, self-employment income, Social Security, pension, or other regular payments.
 
-Debt limits: Your total debts (secured and unsecured combined) must be under $2,750,000 (current limit as of 2024).
+Debt limits: Your noncontingent, liquidated unsecured debts must be under $526,700 and your secured debts under $1,580,125 (as adjusted April 1, 2025).
 
 Tax returns: You must have filed all required tax returns for the 4 years before filing.
 
@@ -812,7 +812,7 @@ Frequently Asked Questions
 
 What are the debt limits for Chapter 13 in Phoenix?
 
-Your total debts - secured and unsecured combined - must be under $2,750,000 (current limit). There is no minimum debt requirement.
+Your noncontingent, liquidated unsecured debts must be under $526,700 and your secured debts under $1,580,125 (Section 109(e); these limits adjust every three years, most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. There is no minimum debt requirement.
 
 Do I need a job to file Chapter 13 in Arizona?
 
@@ -3354,7 +3354,7 @@ You have debts that are non-dischargeable in Chapter 7 but can be managed in Cha
 
 Your income increased and you no longer pass the means test
 
-Chapter 13 debt limits: unsecured debts must be under $2,750,000 (combined secured and unsecured, effective 2024).
+Chapter 13 debt limits: unsecured debts must be under $526,700 and secured debts under $1,580,125 (effective April 1, 2025).
 
 Phoenix-Specific Considerations
 
@@ -3754,7 +3754,7 @@ Maricopa County cases are filed in the District of Arizona, Phoenix Division. Th
 
 Can I choose federal exemptions in Maricopa County?
 
-Yes. Arizona is one of the few states that allows filers to choose between state and federal exemptions. The federal homestead exemption is approximately $27,900 per person (doubling for married couples). Compare this to the Arizona state homestead exemption of $250,000 to determine which set is better for your situation.
+Yes. Arizona is one of the few states that allows filers to choose between state and federal exemptions. The federal homestead exemption is approximately $31,575 per person (doubling for married couples). Compare this to the Arizona state homestead exemption of $250,000 to determine which set is better for your situation.
 
 How many bankruptcy cases are filed in Maricopa County?
 
@@ -3859,7 +3859,7 @@ Pinal County residents file in the District of Arizona, Phoenix Division. The co
 
 What is the homestead exemption in Pinal County?
 
-Arizona's state homestead exemption protects up to $250,000 of equity in your primary residence. Alternatively, you can choose the federal homestead exemption of approximately $27,900 per person. Most Pinal County homeowners benefit from the state exemption.
+Arizona's state homestead exemption protects up to $250,000 of equity in your primary residence. Alternatively, you can choose the federal homestead exemption of approximately $31,575 per person. Most Pinal County homeowners benefit from the state exemption.
 
 Is Pinal County growing in bankruptcy filings?
 
@@ -3964,7 +3964,7 @@ Yavapai County cases are generally assigned to the District of Arizona. While th
 
 Do the same Arizona exemptions apply in Yavapai County?
 
-Yes. Arizona exemptions apply uniformly statewide. You can choose between the state exemption scheme ($250,000 homestead) or the federal exemptions ($27,900 homestead per person). The choice that protects more of your property depends on your individual situation.
+Yes. Arizona exemptions apply uniformly statewide. You can choose between the state exemption scheme ($250,000 homestead) or the federal exemptions ($31,575 homestead per person). The choice that protects more of your property depends on your individual situation.
 
 How does rural property affect exemptions in Yavapai County?
 
@@ -4377,7 +4377,7 @@ Under 11 U.S.C. section 523(a)(2), credit card debt incurred through fraud is no
 
 Luxury purchases over $800 made within 90 days of filing (single creditor)
 
-Cash advances over $1,100 taken within 70 days of filing
+Cash advances over $1,250 taken within 70 days of filing
 
 Charges made with no intent to repay - using cards when you know you cannot pay
 
@@ -4403,7 +4403,7 @@ Yes. Credit card debt is unsecured and generally fully dischargeable in both Cha
 
 What if I used my credit card right before filing?
 
-Luxury purchases over $800 within 90 days or cash advances over $1,100 within 70 days are presumed fraudulent and may not be dischargeable. Wait at least 90 days after your last significant charge before filing.
+Luxury purchases over $900 within 90 days or cash advances over $1,250 within 70 days are presumed fraudulent and may not be dischargeable. Wait at least 90 days after your last significant charge before filing.
 
 Will I lose my credit cards if I file bankruptcy?
 
@@ -4605,7 +4605,7 @@ Administrative expenses (trustee fees, attorney fees)
 
 Priority tax claims (recent income taxes, payroll taxes)
 
-Employee wages within 180 days before filing (up to $15,150 per employee)
+Employee wages within 180 days before filing (up to $17,150 per employee)
 
 In Chapter 13, all priority debts must be paid in full through your plan.
 
@@ -4621,7 +4621,7 @@ Child support/alimony, most student loans, recent tax debts, debts from fraud, D
 
 Is credit card debt dischargeable?
 
-Yes. 100% dischargeable. However, luxury purchases over $800 within 90 days or cash advances over $1,100 within 70 days may be challenged.
+Yes. 100% dischargeable. However, luxury purchases over $900 within 90 days or cash advances over $1,250 within 70 days may be challenged.
 
 Can I discharge a car loan in Phoenix?
 
@@ -5009,7 +5009,7 @@ Chapter 7 to Chapter 7: 8 years. Chapter 13 to Chapter 13: 2 years. Chapter 7 to
 
 Can I be denied Chapter 13?
 
-Chapter 13 has no income limit but requires regular income and debts under $2,750,000. If you lack regular income or exceed debt limits, you cannot file Chapter 13. Prior dismissals may also limit your filing.
+Chapter 13 has no income limit but requires regular income and debts under the section 109(e) limits ($526,700 unsecured, $1,580,125 secured). If you lack regular income or exceed debt limits, you cannot file Chapter 13. Prior dismissals may also limit your filing.
 
 What is the 180-day rule?
 
@@ -6229,7 +6229,7 @@ Frequently Asked Questions
 
 What is the difference between Chapter 7 and Chapter 13?
 
-Chapter 7 eliminates most debts in 3-4 months through liquidation of non-exempt assets. Chapter 13 reorganizes debts into a 3-5 year repayment plan. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($2,750,000).
+Chapter 7 eliminates most debts in 3-4 months through liquidation of non-exempt assets. Chapter 13 reorganizes debts into a 3-5 year repayment plan. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($526,700 unsecured, $1,580,125 secured).
 
 What does discharged mean in bankruptcy?
 
@@ -6344,7 +6344,7 @@ If above median, you complete the full means test (Form 122A-2). Allowed deducti
 
 Chapter 13
 
-If you do not pass the means test for Chapter 7, Chapter 13 is available regardless of income level. Your disposable income determines your plan payments. There is no income cap for Chapter 13, only a debt limit ($2,750,000).
+If you do not pass the means test for Chapter 7, Chapter 13 is available regardless of income level. Your disposable income determines your plan payments. There is no income cap for Chapter 13, only debt limits ($526,700 unsecured, $1,580,125 secured).
 
 Frequently Asked Questions
 
@@ -6354,7 +6354,7 @@ The primary threshold is the Arizona median income: $56,381 for one person. Belo
 
 Is there an income limit for Chapter 13?
 
-No income cap for Chapter 13. However, there is a debt limit ($2,750,000 combined secured and unsecured). Your income determines your plan payment amount and length - above median requires a 5-year plan.
+No income cap for Chapter 13. However, there are debt limits ($526,700 unsecured, $1,580,125 secured). Your income determines your plan payment amount and length - above median requires a 5-year plan.
 
 What income counts for the means test?
 
@@ -8336,7 +8336,7 @@ A free guide for Arizona residents. Filed in D. Ariz..
 
 What You Need to Know
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 In Arizona: Arizona exempts all ERISA-qualified plans plus IRAs up to $1,512,350.
 
@@ -8346,7 +8346,7 @@ Frequently Asked Questions
 
 Can I Keep My 401k and Retirement in Bankruptcy?
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 How does this work in Arizona?
 
@@ -8617,7 +8617,7 @@ OptionBest ForKeep Operating?Filing Fee
 
 Chapter 7Businesses that should closeNo$338
 
-Chapter 13Sole proprietors (debt under $2.75M)Yes$313
+Chapter 13Sole proprietors (unsecured debt under $526,700; secured under $1,580,125)Yes$313
 
 Subchapter VBusinesses with debt under $7.5MYes$1,738
 
@@ -8627,7 +8627,7 @@ Subchapter V: The Small Business Game-Changer
 
 Subchapter V of Chapter 11 was created in 2019 specifically for small businesses:
 
-Debt limit: $7.5 million (including personal guarantees)
+Debt limit: $3,424,000 in noncontingent, liquidated debts
 
 Timeline: Plan due within 90 days; confirmation typically within 6-9 months
 
@@ -8641,7 +8641,7 @@ Consensual or cramdown plan: Court can confirm even if creditors object
 
 Arizona Small Business Considerations
 
-Phoenix's booming construction, technology, and service industries generate substantial small business bankruptcy filings in the D. Ariz. Arizona's anti-deficiency statute protects business owners who used personal residences as collateral. Subchapter V of Chapter 11 is heavily used in the D. Ariz. for businesses with debts under $7.5 million.
+Phoenix's booming construction, technology, and service industries generate substantial small business bankruptcy filings in the D. Ariz. Arizona's anti-deficiency statute protects business owners who used personal residences as collateral. Subchapter V of Chapter 11 is heavily used in the D. Ariz. for businesses with debts of no more than $3,424,000.
 
 Personal Guarantees and Business Debt
 
@@ -8653,11 +8653,11 @@ Frequently Asked Questions
 
 Can I file bankruptcy for my small business in Phoenix?
 
-Yes. Options include Chapter 7 (liquidation), Chapter 13 (sole proprietors, debt under $2.75M), or Subchapter V (businesses with debt under $7.5M). The best option depends on your structure and goals.
+Yes. Options include Chapter 7 (liquidation), Chapter 13 (sole proprietors, unsecured debt under $526,700 and secured debt under $1,580,125), or Subchapter V (businesses with debt of no more than $3,424,000). The best option depends on your structure and goals.
 
 What is Subchapter V of Chapter 11?
 
-A streamlined Chapter 11 for businesses with debts under $7.5 million. No creditor committee, owner retains equity, plan due within 90 days, dedicated trustee facilitates the process.
+A streamlined Chapter 11 for businesses with debts of no more than $3,424,000. No creditor committee, owner retains equity, plan due within 90 days, dedicated trustee facilitates the process.
 
 Can I keep my business open in bankruptcy?
 
