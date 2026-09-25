@@ -1,5 +1,5 @@
-# Phoenix Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Phoenix Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Phoenix bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
@@ -33,7 +33,7 @@ phoenixbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Bankruptcy in Surprise, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/surprise.html
 - Bankruptcy in Tempe, AZ - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/cities/tempe.html
 - Converting Between Bankruptcy Chapters in Phoenix: https://phoenixbankruptcy.org/converting-chapters.html
-- How Much Does Bankruptcy Cost in Phoenix? - Filing Fees, Attorney Fees: https://phoenixbankruptcy.org/cost.html
+- Phoenix Bankruptcy Cost [2026]: $338 Chapter 7 Filing Fee, AZ Attorney Fees, and Fee Waivers: https://phoenixbankruptcy.org/cost.html
 - Bankruptcy by County - Phoenix Metro Area: https://phoenixbankruptcy.org/counties.html
 - Bankruptcy in Maricopa County - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/counties/maricopa-county.html
 - Bankruptcy in Pinal County - Phoenix Bankruptcy Guide: https://phoenixbankruptcy.org/counties/pinal-county.html
@@ -52,12 +52,12 @@ phoenixbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Can I Keep My Engagement Ring in Bankruptcy? - Phoenix: https://phoenixbankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction? - Phoenix: https://phoenixbankruptcy.org/eviction.html
 - Arizona Bankruptcy Exemptions - What You Can Keep - Phoenix: https://phoenixbankruptcy.org/exemptions.html
-- Phoenix Bankruptcy FAQ - 18 Common Questions Answered: https://phoenixbankruptcy.org/faq.html
+- Phoenix Bankruptcy FAQ [2026]: 18 Questions on AZ Filing, Exemptions, and Maricopa County 341 Meetings: https://phoenixbankruptcy.org/faq.html
 - How to Find Out if Someone Filed Bankruptcy - Phoenix: https://phoenixbankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/foreclosure.html
 - Bankruptcy Glossary - Phoenix Terms: https://phoenixbankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Phoenix: https://phoenixbankruptcy.org/income-limits.html
-- Phoenix Bankruptcy - Chapter 7 & 13 Filing Guide: https://phoenixbankruptcy.org/
+- Phoenix Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://phoenixbankruptcy.org/
 - Judgments and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/judgments.html
 - Can I Keep My Car in Phoenix Bankruptcy?: https://phoenixbankruptcy.org/keep-your-car.html
 - Can I Keep My House in Phoenix Bankruptcy?: https://phoenixbankruptcy.org/keep-your-house.html
@@ -75,7 +75,7 @@ phoenixbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Second Mortgages and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance - Phoenix: https://phoenixbankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Phoenix: https://phoenixbankruptcy.org/small-business.html
-- Phoenix Bankruptcy Statistics - 52,776 Cases Analyzed: https://phoenixbankruptcy.org/statistics.html
+- Phoenix Bankruptcy Statistics [2026]: 52,776 Cases Analyzed Across AZ District Phoenix Division: https://phoenixbankruptcy.org/statistics.html
 - What Bills Can I Stop Paying Before Filing? - Phoenix: https://phoenixbankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/student-loans.html
 - Surrendering Your Car in Bankruptcy - Phoenix: https://phoenixbankruptcy.org/surrender-car.html
@@ -87,6 +87,7 @@ phoenixbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Wage Garnishment and Bankruptcy in Phoenix: https://phoenixbankruptcy.org/wage-garnishment.html
 - What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge - Phoenix: https://phoenixbankruptcy.org/what-to-expect.html
 - Privacy Policy: https://phoenixbankruptcy.org/privacy.html
+- About phoenixbankruptcy.org: https://phoenixbankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
