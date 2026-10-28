@@ -1,6 +1,6 @@
 # phoenixbankruptcy.org -- Full Content
 
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 This file contains the full text content of all pages on phoenixbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -10231,7 +10231,7 @@ Arizona residents face the standard federal garnishment rules for student loans 
 
 Alternatives to Discharge
 
-Income-driven repayment (IDR): Cap payments at 10-20% of discretionary income. The SAVE plan further reduced payments.
+Income-driven repayment (IDR): Base payments on income. SAVE was ended by court order on March 10, 2026.
 
 Eliminate other debts: Discharging credit cards and medical bills frees income for student loan payments.
 
@@ -10271,7 +10271,7 @@ The Brunner test requires: (1) you cannot maintain a minimal standard of living 
 
 What is the income-driven repayment alternative?
 
-IDR plans cap monthly payments at 10-20% of discretionary income. After 20-25 years, the balance is forgiven. The SAVE plan (2024) further reduced payments.
+IDR plans base monthly payments on income. After 20 to 30 years, depending on the plan, the balance is forgiven. SAVE was ended by court order on March 10, 2026.
 
 Can student loans garnish my wages in Arizona?
 
